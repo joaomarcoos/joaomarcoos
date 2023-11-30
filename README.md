@@ -1,9 +1,17 @@
-<img src="" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+### Olá, eu sou <strong>João Marcos</strong> 👋
 
+<p align="left">
+  Sou cuiabano de chapa e cruz, com 22 anos de idade e uma formação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - IFMT. 
+  Atualmente, desempenho a função de Assistente de TI, mas estou dedicado a aprimorar constantemente minhas habilidades por meio de cursos relacionados à tecnologia, visando enriquecer meu currículo.
+</p>
 
-  
-### Olá, eu sou João Marcos 👋
+<p align="left">
+ Estou sempre em busca de desafios e oportunidades que me permitam aprender e crescer. No momento, estou focado em aprimorar meus conhecimentos em Microsoft Power BI para Business Intelligence e Data Science. 
+  Caso haja interesse em colaborar ou compartilhar ideias, sinta-se à vontade para entrar em contato comigo.
+</p>
+
 
 <hr/>
 

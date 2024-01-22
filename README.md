@@ -3,7 +3,7 @@
 ### Olá, eu sou <strong>João Marcos</strong> 👋
 
 <p align="left">
-  Sou cuiabano de chapa e cruz, com 22 anos de idade e uma formação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - IFMT. 
+  Sou cuiabano de chapa e cruz, com 23 anos de idade e uma formação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - IFMT. 
   Atualmente, desempenho a função de Assistente de TI, mas estou dedicado a aprimorar constantemente minhas habilidades por meio de cursos relacionados à tecnologia, visando enriquecer meu currículo.
 </p>
 
